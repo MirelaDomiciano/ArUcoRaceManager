@@ -27,7 +27,7 @@ ArUcoRaceManager is a Python-based racing management system that uses ArUco mark
     ```
 3. Install the required dependencies:
     ```
-    pip install -r requirements.txt
+    pip install opencv-python numpy reportlab
     ```
 
 ## Usage
